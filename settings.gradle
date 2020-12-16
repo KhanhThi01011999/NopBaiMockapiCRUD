@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "crudListView_17030771"
